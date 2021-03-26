@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "SF Pro Rounded";
+  font-weight: bold;
+  src: url("./fonts/SF-Pro-Rounded-Bold.woff") format("woff")
+}
+
+@font-face {
+  font-family: "SF Pro Rounded";
+  font-weight: 400;
+  src: url("./fonts/SF-Pro-Rounded-Black.woff") format("woff")
+}
