@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/demo/static/css/main.e0cf60ba.chunk.css",
+    "main.css": "/demo/static/css/main.07c2772a.chunk.css",
     "main.js": "/demo/static/js/main.d3c6cdc5.chunk.js",
     "main.js.map": "/demo/static/js/main.d3c6cdc5.chunk.js.map",
     "runtime-main.js": "/demo/static/js/runtime-main.cb842187.js",
@@ -8,14 +8,14 @@
     "static/js/2.0c727f42.chunk.js": "/demo/static/js/2.0c727f42.chunk.js",
     "static/js/2.0c727f42.chunk.js.map": "/demo/static/js/2.0c727f42.chunk.js.map",
     "index.html": "/demo/index.html",
-    "static/css/main.e0cf60ba.chunk.css.map": "/demo/static/css/main.e0cf60ba.chunk.css.map",
+    "static/css/main.07c2772a.chunk.css.map": "/demo/static/css/main.07c2772a.chunk.css.map",
     "static/js/2.0c727f42.chunk.js.LICENSE.txt": "/demo/static/js/2.0c727f42.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/demo/static/media/SF-Pro-Rounded-Bold.910f3c5a.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.cb842187.js",
     "static/js/2.0c727f42.chunk.js",
-    "static/css/main.e0cf60ba.chunk.css",
+    "static/css/main.07c2772a.chunk.css",
     "static/js/main.d3c6cdc5.chunk.js"
   ]
 }
